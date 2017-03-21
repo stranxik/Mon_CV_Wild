@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(104, 187, 285);
+    font-family: arial;
+    font-weight: lighter;
+}
+#header {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    border-color: white;
+    border-width: 5px;
+    border-style: solid;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    display: block;
+}
+#footer {
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+    border-color: white;
+    border-width: 5px;
+    border-style: solid;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 10px;
+    display: block;
+
+}
+img{
+    width: 200px;
+    border-radius: 50%;
+}
+#left-box {
+    border-color: white;
+    border-width: 5px;
+    border-style: solid;
+    font-size: 15px;
+    padding: 25px;
+    margin-left: 10%;
+    float:left;
+    background-color: rgb(9, 30, 45);
+    color: white;
+    display: block;
+    height: 100%;
+
+}
+#right-box {
+    font-size: 15px;
+    display: block;
+    margin-right: 10%;
+    margin-left:30%;
+    margin-top: 10px;
+
+
+}
+.sub{
+    font-weight: bold;
+}
+#experiences-box {
+    background-color: white;
+    padding: 20px;
+    padding-left: 40px;
+    margin-left: 10px;
+    display: block;
+
+}
+#studies-box {
+    background-color: white;
+    padding: 20px;
+    padding-left: 40px;
+    margin-left: 10px;
+    margin-top: 10px;
+    display: block;
+
+}
+.study{
+    padding-left: 40px;
+}
+.experience{
+    padding-left: 40px;
+}
